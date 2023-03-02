@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sarath-pm&style=flat&color=blue)
 
-<h1 align="center">Hi Geeks, I'm Sarath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi Geeks, I'm Karthikeyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -12,11 +12,11 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Movate` as `DevOps Engineer`
+- 🔭 I’m currently working in `Iopex technologies` as `System Engineer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/karthikeyanvelu)**
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
