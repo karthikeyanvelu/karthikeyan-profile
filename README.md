@@ -111,8 +111,6 @@
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Karthikeyan&theme=tokyonight&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthikeyan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
