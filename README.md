@@ -107,9 +107,9 @@
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Karthikeyan&theme=tokyonight&show_icons=true/460/300">
+#<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Karthikeyan&theme=tokyonight&show_icons=true/460/300">
 
 <br>
 
