@@ -12,7 +12,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex technologies` as `Systems Engineer`
+- 🔭 I’m currently working in `Iopex technologies` as `Techops Engineer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
